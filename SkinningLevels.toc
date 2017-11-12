@@ -1,0 +1,12 @@
+## Interface: 20400
+## Title: SkinningLevels
+## Author: Karakaz
+## Notes: Displays which level mobs you can skin by color
+## Version: 1.0.1
+## SavedVariablesPerCharacter: SkinningLevelsDB
+
+SkinningLevels.xml
+
+SkinningLevelsSupervising.lua
+SkinningLevels.lua
+SkinningRangeObjects.lua

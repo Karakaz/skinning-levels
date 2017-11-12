@@ -1,0 +1,16 @@
+
+-------------------------------------------------------------------------------
+------   v1.0.1  ---  14.07.14   ----------------------------------------------
+
+*	Added option for hiding title
+*	Added option for displaying orange range similar to green and yellow
+*	Cleaned up code a bit (FontString array instead of named FontStrings)
+
+-------------------------------------------------------------------------------
+------   v1.0.0  ---  11.07.14   ----------------------------------------------
+
+*	Initial release
+
+-------------------------------------------------------------------------------
+
+ ~ changeLog.txt ~ SkinningLevels ~
